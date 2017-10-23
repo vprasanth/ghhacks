@@ -1,0 +1,16 @@
+{
+  "name": "ghhacks",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanth Vaaheeswaran",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.16.2",
+    "parse-link-header": "1.0.1",
+    "request": "2.83.0"
+  }
+}
